@@ -1,0 +1,6 @@
+{
+  "name": "የ4ኛ ክፍል አካባቢ ሳይንስ - ምዕራፍ 3: የተፈጥሮ አካባቢያችን (Study & Exam Master)",
+  "description": "አጠቃላይ ምርጥ ማስታወሻዎች ከምሳሌዎች ጋር፣ በይነተገናኝ የሙቀት ስሌት፣ የቃላት መፍቻ፣ አዝናኝ ፈተናዎች እና ማብራሪያዎች ለ4ኛ ክፍል ተማሪዎች (Grade 4 Environmental Science Ch 3 Notes, Real-Life Examples & Exam)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
